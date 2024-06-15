@@ -11,4 +11,4 @@ Un moteur en python pour créer un jeu 2D sans coder
 <br>
 <h2>Lancement</h2>
 
-`pip install django`
+`python main.py`
